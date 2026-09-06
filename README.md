@@ -7,3 +7,5 @@ Some simple tools for Python .
 
 
 start at Sep 6, 2026
+
+[more](docs/README.more.md)
