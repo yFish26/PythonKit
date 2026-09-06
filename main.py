@@ -1,7 +1,13 @@
 def init():
+	"""
+	init PythonKit.
+	"""
 	pass
 
 def main():
+	"""
+	main function.
+	"""
 	pass
 
 # test
