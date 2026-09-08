@@ -1,1 +1,0 @@
-[more](docs/CONTRIBUTING.md)
